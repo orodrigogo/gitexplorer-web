@@ -1,6 +1,5 @@
 <div align="center">
   <img src="./src/assets/logo.svg">
-  <h1>Plataforma para gerenciar repositórios Github</h1>
 </div>
 
 
